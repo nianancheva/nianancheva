@@ -1,16 +1,16 @@
-### Hi there 👋
+## 👉 Hiii fellows 👈
 
-<!--
-**niaplnan/niaplnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🦄 **Some basic info, I guess** 🦄:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤍 I’m currently working on my mental issues
+- 👽 I mostly use these beauties:
+  - **Java**
+  - **JavaScript**
+- 💬 Ask me about whatever comes to ur mind
+- 🌸 How to reach me: 
+  - [**Instagram**](https://instagram.com/nianancheva)
+  - [**Facebook**](https://facebook.com/niaplnan)
+- 🍭 Pronouns: *She/Her*
+- 🐋 Fun fact: I used to code on C++ a couple of years ago. But guess what... I completely forgot its syntax...
+###### (yep... i used the template...)
