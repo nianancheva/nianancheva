@@ -8,7 +8,8 @@
   - **Java**
   - **JavaScript** (well, i'm still struggling with it)
 - 💬 Ask me about whatever comes to ur mind
-- 🌸 How to reach me: 
+- 🌸 How to reach me:
+  - [**Discord**](https://discordapp.com/users/719788587456921601)
   - [**Instagram**](https://instagram.com/nianancheva)
   - [**Facebook**](https://facebook.com/niaplnan)
 - 🍭 Pronouns: *She/Her*
