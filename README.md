@@ -6,7 +6,7 @@
 - 🤍 I’m currently working on my mental issues
 - 👽 I mostly use these beauties:
   - **Java**
-  - **JavaScript**
+  - **JavaScript** (well, i'm still struggling with it)
 - 💬 Ask me about whatever comes to ur mind
 - 🌸 How to reach me: 
   - [**Instagram**](https://instagram.com/nianancheva)
