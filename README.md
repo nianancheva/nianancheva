@@ -3,15 +3,21 @@
 
 ### 🦄 **Some basic info, I guess** 🦄:
 
-- 🤍 I’m currently working on my mental issues
-- 👽 I mostly use these beauties:
+- 👽 **I mostly use these beauties:**
   - **Java**
   - **JavaScript** (well, i'm still struggling with it)
-- 💬 Ask me about whatever comes to ur mind
-- 🌸 How to reach me:
+- 🐲 **I also have some experience with:**
+  - **C++** (before completely dumping it lol)
+  - **C# & Python** (well, at least I know how to pronounce them)
+  - **HTML**
+  - **CSS**
+- 🌸 **How to reach me:**
   - [**Discord**](https://discordapp.com/users/719788587456921601)
   - [**Instagram**](https://instagram.com/nianancheva)
   - [**Facebook**](https://facebook.com/niaplnan)
-- 🍭 Pronouns: *She/Her*
-- 🐋 Fun fact: I used to code on C++ a couple of years ago. But guess what... I completely forgot its syntax...
-###### (yep... i used the template...)
+- 🐸 **Some more time-wasting nonsense:**
+  - 🍭 Pronouns: *She/Her*
+  - 🤍 Currently seeking for an internship (or maybe a job hehe)
+  - 💬 Ask me about whatever comes to ur mind (I'll instantly become ur best friend if u ask "Wanna us to employ u, kiddo?")
+  - 🐋 Fun fact: I used to code on C++ a couple of years ago. But guess what... I fully forgot its syntax...
+###### (yep... i used the template in case u couldn't tell...)
