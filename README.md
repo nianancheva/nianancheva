@@ -5,10 +5,10 @@
 
 - 👽 **I mostly use these beauties:**
   - **Java**
-  - **JavaScript** (well, i'm still struggling with it)
+  - **JavaScript** (well, i'm still struggling with it cuz it's kinda thorny)
 - 🐲 **I also have some experience with:**
   - **C++** (before completely dumping it lol)
-  - **C# & Python** (well, at least I know how to pronounce them)
+  - **C# & Python** (ummm, at least I know how to pronounce them)
   - **HTML**
   - **CSS**
 - 🌸 **How to reach me:**
