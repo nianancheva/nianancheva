@@ -1,12 +1,12 @@
 ## 👉 Hiii fellows 👈
 
 
-### 🦄 **Some basic info, I guess** 🦄:
+### 🦄 **Some basic info, I guess:** 🦄
 
 - 👽 **I mostly use these beauties:**
   - **Java**
   - **JavaScript** (well, i'm still hopelessly coping with it cuz it's kinda thorny)
-- 🐲 **Also slightly experienced with**
+- 🐲 **Also slightly experienced with:**
   - **C++** (before completely dumping it after 2 years of struggle lol)
   - **C# & Python** (ummm, at least I know how to pronounce them)
   - **HTML**
