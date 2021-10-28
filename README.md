@@ -11,6 +11,7 @@
   - **C# & Python** (ummm, at least I know how to pronounce them)
   - **HTML**
   - **CSS**
+  - **R** (quite bizarre syntax though)
 - 🌸 **How to reach me:**
   - [**Email**](mailto:someone@yoursite.com)
   - [**Discord**](https://discordapp.com/users/719788587456921601)
