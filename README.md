@@ -15,11 +15,11 @@
   - [**Discord**](https://discordapp.com/users/719788587456921601)
   - [**Instagram**](https://instagram.com/nianancheva)
   - [**Facebook**](https://facebook.com/niaplnan)
-- 🍁Languages I can speak:
-  - English (Fluent)
-  - German (I swear I'm giving it my best)
-  - Bulgarian (Native, I mean why not)
-  - And... Here it comes... Arabic. (A damn noob (I literally started learning it yesterday so don't judge pls))
+- 🍁**Languages I can speak:**
+  - **English** (Fluent)
+  - **German** (I swear I'm giving it my best)
+  - **Bulgarian** (Native, I mean why not)
+  - And... Here it comes... **Arabic**. (A damn noob (I literally started learning it yesterday so don't judge pls))
 - 🐸 **Some more time-wasting nonsense:**
   - 🍭 Pronouns: *She/Her*
   - 🤍 Currently seeking for an internship (or maybe a job hehe)
