@@ -4,7 +4,8 @@
 
 
 ## 🧀 **A quick intro:** 🧀
-- Name: **Nia Nancheva**
+- Name: **Nia**
+- Surname: **Nancheva**
 - Current location: **Europe** (yep, i won't tel the country due to privacy reasons)
 - Pronouns: **She/Her**
 - Status: **Available for hire**
