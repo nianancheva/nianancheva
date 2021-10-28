@@ -8,9 +8,11 @@
   - **JavaScript** (well, i'm still hopelessly coping with it cuz it's kinda thorny)
 - 🐲 **Also slightly experienced with:**
   - **C++** (before completely dumping it after 2 years of struggle lol)
-  - **C# & Python** (ummm, at least I know how to pronounce them)
+  - **C#** (ummm, at least I know how to pronounce it)
   - **HTML**
   - **CSS**
+  - **Python** (on the verge of actually starting to learn it)
+  - **JSON** (idk what has happened to jdaughter)
   - **R** (quite bizarre syntax though)
 - 🌸 **How to reach me:**
   - [**Email**](mailto:someone@yoursite.com)
