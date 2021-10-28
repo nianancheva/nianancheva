@@ -12,6 +12,7 @@
   - **HTML**
   - **CSS**
 - 🌸 **How to reach me:**
+  - [**Email**](mailto:someone@yoursite.com)
   - [**Discord**](https://discordapp.com/users/719788587456921601)
   - [**Instagram**](https://instagram.com/nianancheva)
   - [**Facebook**](https://facebook.com/niaplnan)
