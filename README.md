@@ -15,7 +15,7 @@
   - **JSON** (idk what has happened to jdaughter)
   - **R** (quite bizarre syntax though)
 - 🌸 **How to reach me:**
-  - [**Email**](mailto:someone@yoursite.com)
+  - [**Email**](mailto:niaplnan.business@gmail.com)
   - [**Discord**](https://discordapp.com/users/719788587456921601)
   - [**Instagram**](https://instagram.com/nianancheva)
   - [**Facebook**](https://facebook.com/niaplnan)
