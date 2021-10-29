@@ -24,6 +24,11 @@
 - **Python** (on the verge of actually starting to learn it)
 - **JSON** (idk what has happened to jdaughter)
 - **R** (quite bizarre syntax though)
+# <!-- blank line -->
+
+<img src="https://user-images.githubusercontent.com/68066820/139449313-a5b56cf7-ad68-48aa-aa3a-0f854bf7affe.png" width=70%>
+
+# <!-- blank line -->
 ### 🌸 **How to reach me:**
 - [**Email**](mailto:niaplnan.business@gmail.com)
 - [**Discord**](https://discordapp.com/users/719788587456921601)
