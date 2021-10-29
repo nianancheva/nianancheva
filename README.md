@@ -11,7 +11,7 @@
 - Status: **Available for hire**
 - Occupation: **Student/Unoccupied**
 
-## 🦄 **Some basic info, I guess:** 🦄
+## 🦄 **Some basic info:** 🦄
 
 ### 👽 **I mostly use these beauties:**
 - **Java**
