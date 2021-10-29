@@ -6,7 +6,7 @@
 ## **A quick intro:**
 - Name: **Nia**
 - Surname: **Nancheva**
-- Current location: **Europe** (yep, i won't tel the country due to privacy reasons)
+- Current location: **Europe** (yep, i won't tell the country due to privacy reasons)
 - Pronouns: **She/Her**
 - Status: **Available for hire**
 - Occupation: **Student/Unoccupied**
