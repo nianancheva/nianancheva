@@ -27,7 +27,7 @@
 # <!-- blank line -->
 
 <p align=center>
-  <img src="https://user-images.githubusercontent.com/68066820/139449313-a5b56cf7-ad68-48aa-aa3a-0f854bf7affe.png" width=70%/>
+  <img src="https://user-images.githubusercontent.com/68066820/139449313-a5b56cf7-ad68-48aa-aa3a-0f854bf7affe.png" width=85%/>
 </p>
 <p align=center>
   (Click on the image for a full-screen view)
