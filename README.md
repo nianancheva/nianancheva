@@ -26,7 +26,13 @@
 - **R** (quite bizarre syntax though)
 # <!-- blank line -->
 
-<img src="https://user-images.githubusercontent.com/68066820/139449313-a5b56cf7-ad68-48aa-aa3a-0f854bf7affe.png">
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/68066820/139449313-a5b56cf7-ad68-48aa-aa3a-0f854bf7affe.png" width=70%/>
+</p>
+<p align=center>
+  (Click on the image for a full-screen view)
+</p>
+<!-- <img src="https://user-images.githubusercontent.com/68066820/139449313-a5b56cf7-ad68-48aa-aa3a-0f854bf7affe.png"> -->
 
 # <!-- blank line -->
 ### 🌸 **How to reach me:**
