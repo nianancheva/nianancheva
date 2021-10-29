@@ -3,7 +3,7 @@
 #### Feel free to complain about my horrible writing skills & weird behaviour :)
 
 
-## 🧀 **A quick intro:** 🧀
+## **A quick intro:**
 - Name: **Nia**
 - Surname: **Nancheva**
 - Current location: **Europe** (yep, i won't tel the country due to privacy reasons)
@@ -11,7 +11,7 @@
 - Status: **Available for hire**
 - Occupation: **Student/Unoccupied**
 
-## 🦄 **Some basic info:** 🦄
+## **Some basic info:**
 
 ### 👽 **I mostly use these beauties:**
 - **Java**
