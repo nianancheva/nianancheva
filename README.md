@@ -40,7 +40,7 @@
 - [**Discord**](https://discordapp.com/users/719788587456921601)
 - [**Instagram**](https://instagram.com/nianancheva)
 - [**Facebook**](https://facebook.com/niaplnan)
-### 🍁**Languages I can speak:**
+### 🍁**Languages I speak / am learning:**
 - **English** (Fluent)
 - **German** (I swear I'm giving it my best)
 - **Bulgarian** (Native, I mean why not)
