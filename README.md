@@ -40,11 +40,11 @@
 - [**Discord**](https://discordapp.com/users/719788587456921601)
 - [**Instagram**](https://instagram.com/nianancheva)
 - [**Facebook**](https://facebook.com/niaplnan)
-### 🍁**Languages I speak / am learning:**
+### 🍁**Proficiency in languages:**
 - **English** (Fluent)
 - **German** (I swear I'm giving it my best)
 - **Bulgarian** (Native, I mean why not)
-- And... Here it comes... **Arabic**. (A damn noob (I literally started learning it yesterday so don't judge pls))
+- And... Here it comes... **Arabic**. (A damn noob (I literally started learning it a couple of days ago so don't judge pls))
 ### 🐸 **Some more time-wasting nonsense:**
 - 🍭 I am a vegetarian. Yep, you read it right.
 - 🤍 Currently seeking for an internship (and maybe a job hehe)
