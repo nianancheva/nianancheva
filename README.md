@@ -10,6 +10,7 @@
 - Pronouns: **She/Her**
 - Status: **Available for hire**
 - Occupation: **Student/Unoccupied**
+- Weight: **Hah u wish**
 
 ## **Some basic info:**
 
