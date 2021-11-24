@@ -1,6 +1,6 @@
 # **Hello Internet users!!!**
 #### Welcome to my ✨*special*✨ repository.
-#### Feel free to complain about my horrible writing skills & weird behaviour :)
+> Feel free to complain about my horrible writing skills & weird behaviour :)
 
 
 ## **A quick intro:**
@@ -46,9 +46,9 @@
 - **German** (I swear I'm giving it my best)
 - **Bulgarian** (Native, I mean why not)
 - And... Here it comes... **Arabic**. (A damn noob (I literally started learning it a couple of days ago so don't judge pls))
-### 🐸 **Some more time-wasting nonsense:**
-- 🤍 Currently seeking for an internship (and maybe a job hehe)
-- 💬 Ask me about whatever comes to ur mind (I'll instantly become ur best friend if u ask "Wanna us to employ u, kiddo?")
-- 🍭 Stupid fact: I am a vegetarian. Yep, you read it right.
-- 🐋 Fun fact: I used to code on C++ a couple of years ago. But guess what... I fully forgot its syntax...
+> ### 🐸 **Some more time-wasting nonsense:**
+> - 🤍 Currently seeking for an internship (and maybe a job hehe)
+> - 💬 Ask me about whatever comes to ur mind (I'll instantly become ur best friend if u ask "Wanna us to employ u, kiddo?")
+> - 🍭 Stupid fact: I am a vegetarian. Yep, you read it right.
+> - 🐋 Fun fact: I used to code on C++ a couple of years ago. But guess what... I fully forgot its syntax...
 ###### (mhm... i used the template in case u couldn't tell...)
