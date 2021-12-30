@@ -10,15 +10,22 @@
 - Pronouns: **She/Her**
 - Status: **Available for hire**
 - Occupation: **Student/Unoccupied**
-- Education: 
-  - **Software University** (SoftUni)
+- Weight: **Hah u wish**
+
+## **Education:**
+- **Software University** (SoftUni)
     - **Software Engineering**
+    - **Web Development**
     - (January 2021 - Present) 
-  - **Telerik Academy**
+- **Telerik Academy**
     - **System programming**
     - **Game development**
     - (2016 - 2020)
-- Weight: **Hah u wish**
+- **"Thomas Jefferson" English High school**
+  - English
+  - **German, Mathematics, Physics and Astronomy**
+- **Friedrich Schiller Association - Primary School**
+  - **German**
 
 ## **Some basic info:**
 
