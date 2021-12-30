@@ -10,6 +10,8 @@
 - Pronouns: **She/Her**
 - Status: **Available for hire**
 - Occupation: **Student/Unoccupied**
+- Education: **Software Engineering** student at **Software University** (SoftUni)
+  - (January 2021 - Present) 
 - Weight: **Hah u wish**
 
 ## **Some basic info:**
