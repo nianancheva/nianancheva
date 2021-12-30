@@ -57,9 +57,9 @@
 - [**Instagram**](https://instagram.com/nianancheva)
 - [**Facebook**](https://facebook.com/niaplnan)
 ### 🍁**Proficiency in languages:**
-- **English** (Fluent)
+- **English** (Ehh not the worst)
 - **German** (I swear I'm giving it my best)
-- **Bulgarian** (Native, I mean why not)
+- **Bulgarian** (It's ok as long as don't have to write lol)
 - And... Here it comes... **Arabic**. (A damn noob (I literally started learning it a couple of days ago so don't judge pls))
 > ### 🐸 **Some more time-wasting nonsense:**
 > - 🤍 Currently seeking for an internship (and maybe a job hehe)
