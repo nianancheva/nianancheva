@@ -10,8 +10,14 @@
 - Pronouns: **She/Her**
 - Status: **Available for hire**
 - Occupation: **Student/Unoccupied**
-- Education: **Software Engineering** student at **Software University** (SoftUni)
-  - (January 2021 - Present) 
+- Education: 
+  - **Software University** (SoftUni)
+    - **Software Engineering**
+    - (January 2021 - Present) 
+  - **Telerik Academy**
+    - **System programming**
+    - **Game development**
+    - (2016 - 2020)
 - Weight: **Hah u wish**
 
 ## **Some basic info:**
