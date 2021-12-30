@@ -22,7 +22,7 @@
     - **Game development**
     - (2016 - 2020)
 - **"Thomas Jefferson" English High school**
-  - English
+  - **English**
   - **German, Mathematics, Physics and Astronomy**
 - **Friedrich Schiller Association - Primary School**
   - **German**
