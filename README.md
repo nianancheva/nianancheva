@@ -24,7 +24,7 @@
 - **"Thomas Jefferson" English High school**
   - **English**
   - **German, Mathematics, Physics and Astronomy**
-- **Friedrich Schiller Association - Primary School**
+- **"Friedrich Schiller" Association - Primary School**
   - **German**
 
 ## **Some basic info:**
