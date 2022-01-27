@@ -62,7 +62,7 @@
 - **English** (Ehh not the worst)
 - **German** (I swear I'm giving it my best)
 - **Bulgarian** (It's ok as long as don't have to write lol)
-- And... Here it comes... **Arabic**. (A damn noob (I literally started learning it a couple of days ago so don't judge pls))
+- **Some other langs that don't matter**
 > ### 🐸 **Some more time-wasting nonsense:**
 > - 🤍 Currently seeking for an internship (and maybe a job hehe)
 > - 💬 Ask me about whatever comes to ur mind (I'll instantly become ur best friend if u ask "Wanna us to employ u, kiddo?")
