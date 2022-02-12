@@ -20,7 +20,7 @@
 - **Telerik Academy**
     - **System programming**
     - **Game development**
-    - (2016 - 2020)
+    - (2017 - 2019)
 - **"Thomas Jefferson" English High school**
   - **English**
   - **German, Mathematics, Physics and Astronomy**
