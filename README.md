@@ -18,7 +18,7 @@
     - **Web Development**
     - (January 2021 - Present) 
 - **Telerik Academy**
-    - **System programming**
+    - **Algorithmic programming**
     - **Game development**
     - (2017 - 2019)
 - **"Thomas Jefferson" English High school**
