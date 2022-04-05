@@ -42,17 +42,7 @@
 - **`R`** (quite bizarre syntax though)
 - **`HTML`**
 - **`CSS`**
-# <!-- blank line -->
 
-<p align=center>
-  <img src="https://user-images.githubusercontent.com/68066820/139449313-a5b56cf7-ad68-48aa-aa3a-0f854bf7affe.png" width=85%/>
-</p>
-<p align=center>
-  (Click on the image for a full-screen view)
-</p>
-<!-- <img src="https://user-images.githubusercontent.com/68066820/139449313-a5b56cf7-ad68-48aa-aa3a-0f854bf7affe.png"> -->
-
-# <!-- blank line -->
 ### 🌸 **How to reach me:**
 - [**Email**](mailto:niaplnan.business@gmail.com)
 - [**Discord**](https://discordapp.com/users/719788587456921601)
