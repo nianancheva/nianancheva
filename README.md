@@ -29,10 +29,9 @@
 
 ## **Some basic info:**
 
-### 👽 **I mostly use these beauties:**
-- **`Java`**
+### 👽 **I have at least 5 min experience in any of these QTs:**
+- **`Java`** (eutvyskgrbvsd i love it)
 - **`JavaScript`** (well, I'm still hopelessly coping with it cuz it's kinda thorny)
-### 🐲 **Also slightly experienced with:**
 - **`C++`** (before completely dumping it after 2 years of struggle lol)
 - **`C#`** (ummm, at least I know how to pronounce it)
 - **`SQL`**
