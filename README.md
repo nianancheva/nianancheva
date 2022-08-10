@@ -38,10 +38,11 @@
 - **`CSS`**
 
 ### 🌸 **How to reach me:**
-- [**Email**](mailto:niaplnan.business@gmail.com)
-- [**Discord**](https://discordapp.com/users/719788587456921601)
-- [**Instagram**](https://instagram.com/nianancheva)
-- [**Facebook**](https://facebook.com/niaplnan)
+#### - [**`LinkedIn`**](https://www.linkedin.com/in/nianancheva/)
+#### - [**`Email`**](mailto:niaplnan.business@gmail.com)
+#### - [**`Discord`**](https://discordapp.com/users/719788587456921601)
+#### - [**`Instagram`**](https://instagram.com/nianancheva)
+#### - [**`Facebook`**](https://facebook.com/niaplnan)
 ### 🍁**Proficiency in languages:**
 - **English** (Ehh not the worst)
 - **German** (I swear I'm giving it my best)
