@@ -38,7 +38,7 @@
 - **`CSS`**
 
 ### 🌸 **How to reach me:**
-#### - [**`LinkedIn`**](https://www.linkedin.com/in/nianancheva/)
+### - [**`LinkedIn`**](https://www.linkedin.com/in/nianancheva/)
 #### - [**`Email`**](mailto:niaplnan.business@gmail.com)
 #### - [**`Discord`**](https://discordapp.com/users/719788587456921601)
 #### - [**`Instagram`**](https://instagram.com/nianancheva)
