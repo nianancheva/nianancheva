@@ -51,18 +51,8 @@
 > - 🤍 Currently seeking for an internship (and maybe a job hehe)
 > - 💬 Ask me about whatever comes to ur mind (I'll instantly become ur best friend if u ask "Wanna us to employ u, kiddo?")
 > - 🍭 Stupid fact: I am a vegetarian. Yep, you read it right.
-> - 🐋 Fun fact: I used to code on C++ a couple of years ago. But guess what... I fully forgot its syntax...
+> - 🐋 Fun fact: I'm right handed.
 
 <br>
 
-```diff
-Just a part of one of my fav songs that gives good vibes kk:
-
-@@ B!tch ich bin böse @@
-- Nicht böse Hexe
-+ Keine böse Fee
-! Böse für die Besten!
-
-# (Lieben wir by Shirin David)
-```
-###### (mhm... i used the template in case u couldn't tell...)
+###### (You can use this as a template tho)
