@@ -33,12 +33,7 @@
 - **`Java`** (eutvyskgrbvsd i love it)
 - **`JavaScript`** (well, I'm still hopelessly coping with it cuz it's kinda thorny)
 - **`C++`** (before completely dumping it after 2 years of struggle lol)
-- **`C#`** (ummm, at least I know how to pronounce it)
 - **`SQL`**
-- **`PHP`**
-- **`Python`** (on the verge of actually starting to learn it)
-- **`JSON`** (idk what has happened to jdaughter)
-- **`R`** (quite bizarre syntax though)
 - **`HTML`**
 - **`CSS`**
 
