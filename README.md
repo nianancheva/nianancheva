@@ -4,8 +4,8 @@
 
 
 ## **A quick intro:**
-- Name: **Nia**
-- Surname: **Nancheva**
+- Name: **Nia Nancheva**
+- Age: **16**
 - Current location: **Europe** (yep, i won't tell the country due to privacy reasons)
 - Pronouns: **She/Her**
 - Status: **Available for hire**
