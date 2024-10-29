@@ -5,8 +5,8 @@
 
 ## **A quick intro:**
 - Name: **Nia Nancheva**
-- Age: **17**
-- Current location: **Europe** (yep, i won't tell the country due to privacy reasons)
+- Age: **18**
+- Current location: **Munich, Germany**
 - Pronouns: **She/Her**
 - Status: **Available for hire**
 - Occupation: **Student/Unoccupied**
